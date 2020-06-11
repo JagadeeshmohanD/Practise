@@ -6,6 +6,10 @@ public class Basics1 {
 		
 		System.out.println("Hello World");
 		System.out.println("Welcome to java session");
+		int a=2;
+		int b=3;
+		int sum=a+b;
+		System.out.println("Sum is"+" "+ sum);
 
 	}
 
