@@ -8,7 +8,7 @@ public class ChildEmirates extends ParentAircraft {
 		c.safetyGuidlines();
 		c.bodycolor();
 		
-		//ParentAircraft p = new ParentAircraft(); //cannot insintiate abstract class
+		//ParentAircraft p = new ParentAircraft(); //cannot instantiate abstract class
 	}
 
 	@Override
