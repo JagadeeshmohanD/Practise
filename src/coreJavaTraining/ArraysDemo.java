@@ -1,5 +1,5 @@
 package coreJavaTraining;
-
+//packages are set of classes and interfaces
 //Arrays
 public class ArraysDemo {
 
