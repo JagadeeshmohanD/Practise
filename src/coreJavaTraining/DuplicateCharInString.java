@@ -37,6 +37,9 @@ public class DuplicateCharInString {
 		System.out.println("--------------------");
 		obj.countDupChars("Hello World");
 		
+		System.out.println("String :@#$@#$%%^&^&*!*!");
+		System.out.println("-------------------------");
+		obj.countDupChars("@#$@#$%%^&^&*!*!");
 	}
 
 }
