@@ -13,9 +13,6 @@ public class DateDisplay {
 		System.out.println(d.toString());
 		System.out.println(sdf.format(d));
 		System.out.println(sd.format(d));
-		
-		
-
 	}
 
 }
